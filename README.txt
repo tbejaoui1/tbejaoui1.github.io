@@ -1,3 +1,13 @@
+This repository contains information on the development of a website. This website is titled 'My Portfolio'
+and lists all the projects that I have completed or I am currently working on. Not all of the projects required CODE
+to be implemented. 
+CODEs for the Master's and the other projects are a WIP and will be shared once completed and published. 
+
+Below is the resource used to make this website. 
+
+
+
+
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
